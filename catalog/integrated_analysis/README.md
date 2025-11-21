@@ -153,7 +153,7 @@ Integration pipelines that combine multiple omics data types to provide systems-
 - REAP-seq: RNA + epitope
 - scNMT-seq: Transcriptome + methylation + chromatin accessibility
 - SHARE-seq: RNA + chromatin accessibility
-- 10X Multiome: RNA + ATAC
+- 10X Multiome: RNA + ATAC-seq
 
 ### 9. Clinical Multi-Omics and Biomarker Discovery
 **Description**: Integrates multi-omics with clinical data for disease stratification and biomarker identification.

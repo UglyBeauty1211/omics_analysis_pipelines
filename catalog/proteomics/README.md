@@ -115,7 +115,7 @@ Proteomics pipelines for mass spectrometry-based protein identification, quantif
 
 1. Use appropriate protein sequence database (species-specific, reviewed entries)
 2. Include contaminants database (e.g., cRAP)
-3. Apply stringent FDR thresholds (typically 1% at PSM and protein level)
+3. Apply stringent FDR thresholds (typically 1% at peptide-spectrum match (PSM) and protein level)
 4. Perform batch correction for large studies
 5. Validate results with targeted methods or orthogonal approaches
 6. Consider missing value imputation strategies carefully
